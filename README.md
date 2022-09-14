@@ -8,7 +8,6 @@ https://s2.dosya.tc/server19/uzwh3l/Eksik_dosya.rar.html
 ![ornek-sınav](https://user-images.githubusercontent.com/97508155/190072397-9a08be66-c3de-4ba2-b866-e975a2cc072a.PNG)
 
 ![ogrenci-ekle](https://user-images.githubusercontent.com/97508155/190072443-086c4688-d6d0-4256-9e29-cb8c8ee0c0cb.PNG)
-![ornek-sınav-sayfa](https://user-images.githubusercontent.com/97508155/190072459-1ad38c6e-bf12-469a-b409-69424d026877.PNG)
 ![öğrenci ekleme penceresi](https://user-images.githubusercontent.com/97508155/190072465-63f2a27d-b1e4-406f-b2df-89367bf3cfe0.PNG)
 ![öğrenci listeleme](https://user-images.githubusercontent.com/97508155/190072473-caac11e3-28c5-4280-a048-aad23906907f.PNG)
 ![öğrenci-sınav-sonuç](https://user-images.githubusercontent.com/97508155/190072757-3abc2ce0-aa2b-4a79-acaa-69337dcc60b3.PNG)
